@@ -65,4 +65,4 @@ sudo docker pull arrukex/ct648_bun_react_docker:react-app
 ```
 docker run -d -p 3009:80 arrukex/ct648_bun_react_docker:react-app
 ```
-เมื่อ run ผ่านและไม่มี error ก็เข้าไปดูหน้า web ด้วย Public IP ของเครื่อง instance EC2# ct648_bun_react_docker
+เมื่อ run ผ่านและไม่มี error ก็เข้าไปดูหน้า web ด้วย Public IP ของเครื่อง instance EC2
