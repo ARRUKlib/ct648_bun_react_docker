@@ -57,7 +57,7 @@ install docker
 sudo apt install docker.io
 ```
 
-ดึง Docker image ที่ชื่อ arrukex/ct648_bun_react_docker:react-app จาก Docker Hub ที่สร้างและ push ขึ้นไปไว้ก่อนห้านี้มายังเครื่อง instance EC2 ของเรา ด้วยคำสั่งนี้
+ดึง Docker image ที่ชื่อ arrukex/ct648_bun_react_docker:react-app จาก Docker Hub ที่สร้างและ push ขึ้นไปไว้ก่อนหน้านี้มายังเครื่อง instance EC2 ของเรา ด้วยคำสั่งนี้
 ```
 sudo docker pull arrukex/ct648_bun_react_docker:react-app
 ```
