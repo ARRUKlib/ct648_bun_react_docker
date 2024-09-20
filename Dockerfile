@@ -1,5 +1,5 @@
 # Build stage
-FROM node:16-buster as build
+FROM node:16-buster AS build
 
 # Install Bun
 RUN apt-get update && apt-get install -y curl && \
